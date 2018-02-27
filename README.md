@@ -10,7 +10,7 @@ DIR (Dental Image repository)  present a 3D dental Database for benchmarking det
 This dataset contains 3D data from dental plaster models. Approximatively 350.000 points are acquire per piece. the acquisition was made on image laboratory of National University of Colombia. The dataset have five PLY models wich each file contain a list of (X, Y, Z, label)points, where XYZ correspond to geometric object and label correspond to the object identifier obtained.
 
 <p align="center">
-  <img src="https://www.overleaf.com/docs/13299435zzssrgxfhypq/atts/77927211)" width="350"/>
+  <img src="https://www.overleaf.com/docs/13299435zzssrgxfhypq/atts/77927211)" width="400"/>
 </p>
 
 
@@ -20,7 +20,7 @@ Eight views were captured in order to construct each digital model, with the sca
 Annotation has been carried out in a manually way. Then, a label and class is assigned to each segmented object acoording to ISO System by the World Health Organization.
 
 <p align="center">
-  <img src="https://www.overleaf.com/docs/13299435zzssrgxfhypq/atts/72956464)" />
+  <img src="https://www.overleaf.com/docs/13299435zzssrgxfhypq/atts/72956464)"  width="750"/>
 </p>
 
 

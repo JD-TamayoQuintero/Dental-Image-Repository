@@ -26,3 +26,6 @@ Annotation has been carried out in a manually way. Then, a label and class is as
 
 #  Download and Conditions of Use 
 This database is avaliable under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4)
+
+Insert the following citation in any scientific or technical publication whenever this dataset was used to get the results:   
+J.D. Tamayo-Quintero, J.B. Gómez-Mendoza "Digital Dental Three Dimensional Database: a 3D dataset for benchmarking digital dentistry, manual annotations and ground truth".
